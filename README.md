@@ -19,3 +19,14 @@ You can get the models and their weights from Hugging Face:<br>
     pages = "46--51",
 }
 ```
+
+```bibtex
+@misc{ghosh2023learning,
+      title={Learning Semantic Text Similarity to rank Hypernyms of Financial Terms}, 
+      author={Sohom Ghosh and Ankush Chopra and Sudip Kumar Naskar},
+      year={2023},
+      eprint={2303.13475},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
